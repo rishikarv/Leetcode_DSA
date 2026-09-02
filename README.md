@@ -9,6 +9,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/rishikarv/Leetcode_DSA/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/rishikarv/Leetcode_DSA/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/rishikarv/Leetcode_DSA/tree/master/0231-power-of-two) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rishikarv/Leetcode_DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -27,6 +28,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/rishikarv/Leetcode_DSA/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/rishikarv/Leetcode_DSA/tree/master/0231-power-of-two) |
 ## Dynamic Programming
 |  |
