@@ -9,6 +9,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/rishikarv/Leetcode_DSA/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/rishikarv/Leetcode_DSA/tree/master/0231-power-of-two) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rishikarv/Leetcode_DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -27,4 +28,12 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/rishikarv/Leetcode_DSA/tree/master/0231-power-of-two) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/rishikarv/Leetcode_DSA/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/rishikarv/Leetcode_DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
