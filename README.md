@@ -6,6 +6,7 @@
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rishikarv/Leetcode_DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rishikarv/Leetcode_DSA/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/rishikarv/Leetcode_DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Math
 |  |
 | ------- |
@@ -13,6 +14,7 @@
 | [0070-climbing-stairs](https://github.com/rishikarv/Leetcode_DSA/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/rishikarv/Leetcode_DSA/tree/master/0231-power-of-two) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rishikarv/Leetcode_DSA/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/rishikarv/Leetcode_DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
