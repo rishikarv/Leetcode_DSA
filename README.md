@@ -17,12 +17,14 @@
 | ------- |
 | [0050-powx-n](https://github.com/rishikarv/Leetcode_DSA/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/rishikarv/Leetcode_DSA/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/rishikarv/Leetcode_DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/rishikarv/Leetcode_DSA/tree/master/0231-power-of-two) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rishikarv/Leetcode_DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/rishikarv/Leetcode_DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/rishikarv/Leetcode_DSA/tree/master/0202-happy-number) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rishikarv/Leetcode_DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Simulation
 |  |
@@ -56,4 +58,12 @@
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/rishikarv/Leetcode_DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/rishikarv/Leetcode_DSA/tree/master/3904-smallest-stable-index-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/rishikarv/Leetcode_DSA/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/rishikarv/Leetcode_DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
