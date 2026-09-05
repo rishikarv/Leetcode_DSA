@@ -6,6 +6,7 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/rishikarv/Leetcode_DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/rishikarv/Leetcode_DSA/tree/master/0119-pascals-triangle-ii) |
+| [0268-missing-number](https://github.com/rishikarv/Leetcode_DSA/tree/master/0268-missing-number) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rishikarv/Leetcode_DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rishikarv/Leetcode_DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rishikarv/Leetcode_DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -19,6 +20,7 @@
 | [0070-climbing-stairs](https://github.com/rishikarv/Leetcode_DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/rishikarv/Leetcode_DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/rishikarv/Leetcode_DSA/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/rishikarv/Leetcode_DSA/tree/master/0268-missing-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rishikarv/Leetcode_DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/rishikarv/Leetcode_DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
@@ -34,6 +36,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/rishikarv/Leetcode_DSA/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/rishikarv/Leetcode_DSA/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -62,8 +65,17 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/rishikarv/Leetcode_DSA/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/rishikarv/Leetcode_DSA/tree/master/0268-missing-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/rishikarv/Leetcode_DSA/tree/master/0202-happy-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/rishikarv/Leetcode_DSA/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/rishikarv/Leetcode_DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
