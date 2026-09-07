@@ -54,6 +54,7 @@
 | [0115-distinct-subsequences](https://github.com/rishikarv/Leetcode_DSA/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/rishikarv/Leetcode_DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/rishikarv/Leetcode_DSA/tree/master/0119-pascals-triangle-ii) |
+| [0940-distinct-subsequences-ii](https://github.com/rishikarv/Leetcode_DSA/tree/master/0940-distinct-subsequences-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -88,4 +89,5 @@
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/rishikarv/Leetcode_DSA/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/rishikarv/Leetcode_DSA/tree/master/0940-distinct-subsequences-ii) |
 <!---LeetCode Topics End-->
