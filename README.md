@@ -9,6 +9,7 @@
 | [0189-rotate-array](https://github.com/rishikarv/Leetcode_DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/rishikarv/Leetcode_DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rishikarv/Leetcode_DSA/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/rishikarv/Leetcode_DSA/tree/master/0414-third-maximum-number) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rishikarv/Leetcode_DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rishikarv/Leetcode_DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rishikarv/Leetcode_DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/rishikarv/Leetcode_DSA/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/rishikarv/Leetcode_DSA/tree/master/0414-third-maximum-number) |
 ## String
 |  |
 | ------- |
