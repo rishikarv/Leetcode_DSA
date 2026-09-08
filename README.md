@@ -10,6 +10,7 @@
 | [0268-missing-number](https://github.com/rishikarv/Leetcode_DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rishikarv/Leetcode_DSA/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/rishikarv/Leetcode_DSA/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rishikarv/Leetcode_DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rishikarv/Leetcode_DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rishikarv/Leetcode_DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rishikarv/Leetcode_DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -75,6 +76,7 @@
 | ------- |
 | [0202-happy-number](https://github.com/rishikarv/Leetcode_DSA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/rishikarv/Leetcode_DSA/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rishikarv/Leetcode_DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
