@@ -4,28 +4,22 @@ class Solution {
         int j= nums.length -1;
         if(nums[i]<=nums[j]){
             while(i<j){
-                if(nums[i]<=nums[i+1]){
-                    i++;
-                }
-                else{
-                    return false;
-                }
+                if(nums[i]>nums[i+1]){
+                   return false;
+                } 
+                i++;
             }
-            return true;
             }
 
          else if(nums[i]>=nums[j]){
             while(i<j){
-                if(nums[i]>=nums[i+1]){
-                    i++;
-                }
-                else{
+                if(nums[i]<nums[i+1]){
                     return false;
                 }
+                i++;
+            }
             }
             return true;
-            }
-            return false;
         }
        
     }
