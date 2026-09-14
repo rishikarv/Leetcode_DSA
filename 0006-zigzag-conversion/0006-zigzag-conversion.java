@@ -3,25 +3,27 @@ class Solution {
         if(numRows==1){
             return s;
         }
-        String [] arr =  new String [numRows];
-        for(int i=0;i<arr.length;i++){
-            arr[i]="";
+        StringBuilder [] rows =  new StringBuilder [numRows];
+        for(int i=0;i<numRows;i++){
+            rows[i]=new StringBuilder();
         }
-        int idx =0;
-        while(idx<s.length()){
-            for(int i=0;i<numRows&&idx<s.length();i++){
-                arr[i]+=s.charAt(idx);
-                idx++;
+        int curRow =0;
+        int direction =1;
+
+        for(char c : s.toCharArray()){
+            rows[curRow].append(c);
+            if(curRow==0){
+                direction =1;
             }
-            for(int i=numRows-2;i>0&&idx<s.length();i--){
-                arr[i]+=s.charAt(idx);
-                idx++;
+            else if(curRow==numRows-1){
+                direction =-1;
             }
+            curRow +=direction;
         }
-        String res = "";
-        for(String str:arr){
-            res+=str;
+        String result ="";
+        for(StringBuilder str:rows){
+            result+=str;
         }
-        return res;
+        return result;
     }
 }
