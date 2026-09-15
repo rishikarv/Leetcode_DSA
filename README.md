@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rishikarv/Leetcode_DSA/tree/master/0011-container-with-most-water) |
 | [0118-pascals-triangle](https://github.com/rishikarv/Leetcode_DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/rishikarv/Leetcode_DSA/tree/master/0119-pascals-triangle-ii) |
 | [0189-rotate-array](https://github.com/rishikarv/Leetcode_DSA/tree/master/0189-rotate-array) |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rishikarv/Leetcode_DSA/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/rishikarv/Leetcode_DSA/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/rishikarv/Leetcode_DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/rishikarv/Leetcode_DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/rishikarv/Leetcode_DSA/tree/master/0283-move-zeroes) |
@@ -70,6 +72,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rishikarv/Leetcode_DSA/tree/master/0011-container-with-most-water) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rishikarv/Leetcode_DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Prefix Sum
 |  |
