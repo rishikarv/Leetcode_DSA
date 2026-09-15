@@ -100,6 +100,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rishikarv/Leetcode_DSA/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/rishikarv/Leetcode_DSA/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/rishikarv/Leetcode_DSA/tree/master/0008-string-to-integer-atoi) |
 | [0115-distinct-subsequences](https://github.com/rishikarv/Leetcode_DSA/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/rishikarv/Leetcode_DSA/tree/master/0940-distinct-subsequences-ii) |
 ## Manacher
