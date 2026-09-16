@@ -10,11 +10,9 @@ class Solution {
             
             while(left<right){
                 sum=nums[i]+nums[left]+nums[right];
-                List<Integer> li = new ArrayList<>();
+             
                 if(sum==0){
-                    Collections.addAll(li,nums[i],nums[left],nums[right]);
-                Collections.sort(li);
-                    hash.add(li);
+                   hash.add(Arrays.asList(nums[i],nums[left],nums[right]));
                     left++;
                     right--;
                 }
