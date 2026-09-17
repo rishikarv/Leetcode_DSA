@@ -62,6 +62,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rishikarv/Leetcode_DSA/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/rishikarv/Leetcode_DSA/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/rishikarv/Leetcode_DSA/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/rishikarv/Leetcode_DSA/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/rishikarv/Leetcode_DSA/tree/master/0118-pascals-triangle) |
@@ -107,10 +108,19 @@
 | [0005-longest-palindromic-substring](https://github.com/rishikarv/Leetcode_DSA/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/rishikarv/Leetcode_DSA/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/rishikarv/Leetcode_DSA/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/rishikarv/Leetcode_DSA/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/rishikarv/Leetcode_DSA/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/rishikarv/Leetcode_DSA/tree/master/0940-distinct-subsequences-ii) |
 ## Manacher
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rishikarv/Leetcode_DSA/tree/master/0005-longest-palindromic-substring) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/rishikarv/Leetcode_DSA/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/rishikarv/Leetcode_DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
