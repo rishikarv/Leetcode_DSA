@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/rishikarv/Leetcode_DSA/tree/master/0015-3sum) |
 | [0118-pascals-triangle](https://github.com/rishikarv/Leetcode_DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/rishikarv/Leetcode_DSA/tree/master/0119-pascals-triangle-ii) |
+| [0162-find-peak-element](https://github.com/rishikarv/Leetcode_DSA/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/rishikarv/Leetcode_DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/rishikarv/Leetcode_DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rishikarv/Leetcode_DSA/tree/master/0283-move-zeroes) |
@@ -95,6 +96,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/rishikarv/Leetcode_DSA/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/rishikarv/Leetcode_DSA/tree/master/0268-missing-number) |
 ## Sorting
 |  |
