@@ -16,6 +16,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rishikarv/Leetcode_DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0896-monotonic-array](https://github.com/rishikarv/Leetcode_DSA/tree/master/0896-monotonic-array) |
 | [0941-valid-mountain-array](https://github.com/rishikarv/Leetcode_DSA/tree/master/0941-valid-mountain-array) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/rishikarv/Leetcode_DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rishikarv/Leetcode_DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rishikarv/Leetcode_DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rishikarv/Leetcode_DSA/tree/master/3875-construct-uniform-parity-array-i) |
