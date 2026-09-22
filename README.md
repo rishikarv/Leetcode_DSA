@@ -15,6 +15,7 @@
 | [0414-third-maximum-number](https://github.com/rishikarv/Leetcode_DSA/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rishikarv/Leetcode_DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0896-monotonic-array](https://github.com/rishikarv/Leetcode_DSA/tree/master/0896-monotonic-array) |
+| [0904-fruit-into-baskets](https://github.com/rishikarv/Leetcode_DSA/tree/master/0904-fruit-into-baskets) |
 | [0941-valid-mountain-array](https://github.com/rishikarv/Leetcode_DSA/tree/master/0941-valid-mountain-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/rishikarv/Leetcode_DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rishikarv/Leetcode_DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -91,6 +92,7 @@
 | [0202-happy-number](https://github.com/rishikarv/Leetcode_DSA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/rishikarv/Leetcode_DSA/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rishikarv/Leetcode_DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0904-fruit-into-baskets](https://github.com/rishikarv/Leetcode_DSA/tree/master/0904-fruit-into-baskets) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -127,4 +129,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/rishikarv/Leetcode_DSA/tree/master/0022-generate-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [0904-fruit-into-baskets](https://github.com/rishikarv/Leetcode_DSA/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
