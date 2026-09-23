@@ -89,6 +89,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rishikarv/Leetcode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/rishikarv/Leetcode_DSA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/rishikarv/Leetcode_DSA/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rishikarv/Leetcode_DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -111,6 +112,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rishikarv/Leetcode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/rishikarv/Leetcode_DSA/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/rishikarv/Leetcode_DSA/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/rishikarv/Leetcode_DSA/tree/master/0008-string-to-integer-atoi) |
@@ -132,5 +134,6 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rishikarv/Leetcode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/rishikarv/Leetcode_DSA/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
