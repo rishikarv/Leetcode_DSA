@@ -1,13 +1,4 @@
 class Solution {
-    static int maxfreq(int []arr){
-        int max =0;
-        for(int i=0;i<arr.length;i++){
-            if(arr[i]>max){
-                max=arr[i];
-            }
-        }
-        return max;
-    }
     public int characterReplacement(String s, int k) {
      int low=0;
      int high =0;
@@ -17,12 +8,11 @@ class Solution {
      for(high =0;high<s.length();high++){
         hash[s.charAt(high)-'A']++;
         int len = high-low+1;
-        maxcnt = maxfreq(hash);
+        maxcnt = Math.max(maxcnt,hash[s.charAt(high)-'A']);
         int diff = len-maxcnt;
         while(diff>k){
             hash[s.charAt(low)-'A']--;
             low++;
-            maxcnt = maxfreq(hash);
             len = high-low+1;
             diff = len-maxcnt;
         }
