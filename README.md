@@ -17,6 +17,7 @@
 | [0896-monotonic-array](https://github.com/rishikarv/Leetcode_DSA/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/rishikarv/Leetcode_DSA/tree/master/0904-fruit-into-baskets) |
 | [0941-valid-mountain-array](https://github.com/rishikarv/Leetcode_DSA/tree/master/0941-valid-mountain-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/rishikarv/Leetcode_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/rishikarv/Leetcode_DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rishikarv/Leetcode_DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rishikarv/Leetcode_DSA/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -84,6 +85,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/rishikarv/Leetcode_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [3903-smallest-stable-index-i](https://github.com/rishikarv/Leetcode_DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/rishikarv/Leetcode_DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
@@ -104,6 +106,7 @@
 | ------- |
 | [0162-find-peak-element](https://github.com/rishikarv/Leetcode_DSA/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/rishikarv/Leetcode_DSA/tree/master/0268-missing-number) |
+| [1004-max-consecutive-ones-iii](https://github.com/rishikarv/Leetcode_DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -139,4 +142,5 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishikarv/Leetcode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/rishikarv/Leetcode_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/rishikarv/Leetcode_DSA/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/rishikarv/Leetcode_DSA/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
