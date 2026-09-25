@@ -24,6 +24,7 @@
 | [1848-minimum-distance-to-the-target-element](https://github.com/rishikarv/Leetcode_DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rishikarv/Leetcode_DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rishikarv/Leetcode_DSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rishikarv/Leetcode_DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rishikarv/Leetcode_DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/rishikarv/Leetcode_DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/rishikarv/Leetcode_DSA/tree/master/3903-smallest-stable-index-i) |
@@ -38,6 +39,7 @@
 | [0202-happy-number](https://github.com/rishikarv/Leetcode_DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/rishikarv/Leetcode_DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rishikarv/Leetcode_DSA/tree/master/0268-missing-number) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rishikarv/Leetcode_DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/rishikarv/Leetcode_DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/rishikarv/Leetcode_DSA/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rishikarv/Leetcode_DSA/tree/master/3875-construct-uniform-parity-array-i) |
