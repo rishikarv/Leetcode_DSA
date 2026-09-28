@@ -6,6 +6,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/rishikarv/Leetcode_DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/rishikarv/Leetcode_DSA/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/rishikarv/Leetcode_DSA/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/rishikarv/Leetcode_DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/rishikarv/Leetcode_DSA/tree/master/0119-pascals-triangle-ii) |
 | [0162-find-peak-element](https://github.com/rishikarv/Leetcode_DSA/tree/master/0162-find-peak-element) |
@@ -50,6 +51,7 @@
 | [0005-longest-palindromic-substring](https://github.com/rishikarv/Leetcode_DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/rishikarv/Leetcode_DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/rishikarv/Leetcode_DSA/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/rishikarv/Leetcode_DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishikarv/Leetcode_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/rishikarv/Leetcode_DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/rishikarv/Leetcode_DSA/tree/master/0202-happy-number) |
@@ -121,6 +123,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/rishikarv/Leetcode_DSA/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/rishikarv/Leetcode_DSA/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/rishikarv/Leetcode_DSA/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/rishikarv/Leetcode_DSA/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/rishikarv/Leetcode_DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -155,4 +158,12 @@
 | [0424-longest-repeating-character-replacement](https://github.com/rishikarv/Leetcode_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/rishikarv/Leetcode_DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/rishikarv/Leetcode_DSA/tree/master/1004-max-consecutive-ones-iii) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/rishikarv/Leetcode_DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/rishikarv/Leetcode_DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
