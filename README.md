@@ -19,6 +19,7 @@
 | [0283-move-zeroes](https://github.com/rishikarv/Leetcode_DSA/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/rishikarv/Leetcode_DSA/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rishikarv/Leetcode_DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0643-maximum-average-subarray-i](https://github.com/rishikarv/Leetcode_DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0896-monotonic-array](https://github.com/rishikarv/Leetcode_DSA/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/rishikarv/Leetcode_DSA/tree/master/0904-fruit-into-baskets) |
 | [0941-valid-mountain-array](https://github.com/rishikarv/Leetcode_DSA/tree/master/0941-valid-mountain-array) |
@@ -170,6 +171,7 @@
 | [0076-minimum-window-substring](https://github.com/rishikarv/Leetcode_DSA/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/rishikarv/Leetcode_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/rishikarv/Leetcode_DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/rishikarv/Leetcode_DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/rishikarv/Leetcode_DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/rishikarv/Leetcode_DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Quicksort
