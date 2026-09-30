@@ -60,6 +60,7 @@
 | [0189-rotate-array](https://github.com/rishikarv/Leetcode_DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/rishikarv/Leetcode_DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/rishikarv/Leetcode_DSA/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/rishikarv/Leetcode_DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/rishikarv/Leetcode_DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rishikarv/Leetcode_DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Simulation
@@ -184,6 +185,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rishikarv/Leetcode_DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rishikarv/Leetcode_DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/rishikarv/Leetcode_DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Matrix
 |  |
 | ------- |
