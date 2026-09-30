@@ -6,6 +6,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/rishikarv/Leetcode_DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/rishikarv/Leetcode_DSA/tree/master/0015-3sum) |
+| [0054-spiral-matrix](https://github.com/rishikarv/Leetcode_DSA/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/rishikarv/Leetcode_DSA/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/rishikarv/Leetcode_DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/rishikarv/Leetcode_DSA/tree/master/0119-pascals-triangle-ii) |
@@ -63,6 +64,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/rishikarv/Leetcode_DSA/tree/master/0054-spiral-matrix) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rishikarv/Leetcode_DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Bit Manipulation
 |  |
@@ -180,4 +182,8 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rishikarv/Leetcode_DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rishikarv/Leetcode_DSA/tree/master/0142-linked-list-cycle-ii) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/rishikarv/Leetcode_DSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
