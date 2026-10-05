@@ -122,6 +122,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rishikarv/Leetcode_DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rishikarv/Leetcode_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/rishikarv/Leetcode_DSA/tree/master/0904-fruit-into-baskets) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/rishikarv/Leetcode_DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -156,6 +157,7 @@
 | [0115-distinct-subsequences](https://github.com/rishikarv/Leetcode_DSA/tree/master/0115-distinct-subsequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/rishikarv/Leetcode_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-distinct-subsequences-ii](https://github.com/rishikarv/Leetcode_DSA/tree/master/0940-distinct-subsequences-ii) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/rishikarv/Leetcode_DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Manacher
 |  |
 | ------- |
