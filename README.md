@@ -45,6 +45,7 @@
 | [0202-happy-number](https://github.com/rishikarv/Leetcode_DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/rishikarv/Leetcode_DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rishikarv/Leetcode_DSA/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/rishikarv/Leetcode_DSA/tree/master/0415-add-strings) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rishikarv/Leetcode_DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/rishikarv/Leetcode_DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/rishikarv/Leetcode_DSA/tree/master/3871-count-commas-in-range-ii) |
@@ -71,6 +72,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/rishikarv/Leetcode_DSA/tree/master/0054-spiral-matrix) |
+| [0415-add-strings](https://github.com/rishikarv/Leetcode_DSA/tree/master/0415-add-strings) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rishikarv/Leetcode_DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Bit Manipulation
 |  |
@@ -156,6 +158,7 @@
 | [0022-generate-parentheses](https://github.com/rishikarv/Leetcode_DSA/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/rishikarv/Leetcode_DSA/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/rishikarv/Leetcode_DSA/tree/master/0115-distinct-subsequences) |
+| [0415-add-strings](https://github.com/rishikarv/Leetcode_DSA/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/rishikarv/Leetcode_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/rishikarv/Leetcode_DSA/tree/master/0443-string-compression) |
 | [0940-distinct-subsequences-ii](https://github.com/rishikarv/Leetcode_DSA/tree/master/0940-distinct-subsequences-ii) |
