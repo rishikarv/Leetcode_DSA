@@ -67,6 +67,7 @@
 | [0443-string-compression](https://github.com/rishikarv/Leetcode_DSA/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/rishikarv/Leetcode_DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/rishikarv/Leetcode_DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/rishikarv/Leetcode_DSA/tree/master/1768-merge-strings-alternately) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rishikarv/Leetcode_DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Simulation
 |  |
@@ -163,6 +164,7 @@
 | [0443-string-compression](https://github.com/rishikarv/Leetcode_DSA/tree/master/0443-string-compression) |
 | [0940-distinct-subsequences-ii](https://github.com/rishikarv/Leetcode_DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1108-defanging-an-ip-address](https://github.com/rishikarv/Leetcode_DSA/tree/master/1108-defanging-an-ip-address) |
+| [1768-merge-strings-alternately](https://github.com/rishikarv/Leetcode_DSA/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rishikarv/Leetcode_DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Manacher
 |  |
