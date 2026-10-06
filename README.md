@@ -122,6 +122,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/rishikarv/Leetcode_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/rishikarv/Leetcode_DSA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/rishikarv/Leetcode_DSA/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/rishikarv/Leetcode_DSA/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/rishikarv/Leetcode_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rishikarv/Leetcode_DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rishikarv/Leetcode_DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -159,6 +160,7 @@
 | [0022-generate-parentheses](https://github.com/rishikarv/Leetcode_DSA/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/rishikarv/Leetcode_DSA/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/rishikarv/Leetcode_DSA/tree/master/0115-distinct-subsequences) |
+| [0383-ransom-note](https://github.com/rishikarv/Leetcode_DSA/tree/master/0383-ransom-note) |
 | [0415-add-strings](https://github.com/rishikarv/Leetcode_DSA/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/rishikarv/Leetcode_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/rishikarv/Leetcode_DSA/tree/master/0443-string-compression) |
@@ -207,4 +209,8 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/rishikarv/Leetcode_DSA/tree/master/0054-spiral-matrix) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/rishikarv/Leetcode_DSA/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
