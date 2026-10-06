@@ -164,6 +164,7 @@
 | [0415-add-strings](https://github.com/rishikarv/Leetcode_DSA/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/rishikarv/Leetcode_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/rishikarv/Leetcode_DSA/tree/master/0443-string-compression) |
+| [0796-rotate-string](https://github.com/rishikarv/Leetcode_DSA/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/rishikarv/Leetcode_DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1108-defanging-an-ip-address](https://github.com/rishikarv/Leetcode_DSA/tree/master/1108-defanging-an-ip-address) |
 | [1768-merge-strings-alternately](https://github.com/rishikarv/Leetcode_DSA/tree/master/1768-merge-strings-alternately) |
@@ -213,4 +214,8 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/rishikarv/Leetcode_DSA/tree/master/0383-ransom-note) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/rishikarv/Leetcode_DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
