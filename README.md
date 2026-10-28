@@ -21,6 +21,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rishikarv/Leetcode_DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rishikarv/Leetcode_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/rishikarv/Leetcode_DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/rishikarv/Leetcode_DSA/tree/master/0724-find-pivot-index) |
 | [0896-monotonic-array](https://github.com/rishikarv/Leetcode_DSA/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/rishikarv/Leetcode_DSA/tree/master/0904-fruit-into-baskets) |
 | [0941-valid-mountain-array](https://github.com/rishikarv/Leetcode_DSA/tree/master/0941-valid-mountain-array) |
@@ -109,6 +110,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rishikarv/Leetcode_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/rishikarv/Leetcode_DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/rishikarv/Leetcode_DSA/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/rishikarv/Leetcode_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [3903-smallest-stable-index-i](https://github.com/rishikarv/Leetcode_DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/rishikarv/Leetcode_DSA/tree/master/3904-smallest-stable-index-ii) |
